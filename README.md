@@ -28,7 +28,7 @@ https://www.figma.com/design/3Tel8ojX8vYFNWF4FblDML/Untitled?node-id=0-1&t=5mExi
 ## 1. Clone This Repo
 
 ```bash
-[git clone https://github.com/your-username/memory-game.git](https://github.com/spandana-yellamelli/Memory-Game.git)
+https://github.com/spandana-yellamelli/Memory-Game.git
 
 ```
 
